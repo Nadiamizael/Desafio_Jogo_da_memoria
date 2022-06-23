@@ -1,7 +1,7 @@
 ## Jogo da Memória 👩‍💻🧠
 
 <div aling="center">
-<img src=">
+<img src="assets/ezgif.com-gif-maker.gif">
 
 </div>
 
