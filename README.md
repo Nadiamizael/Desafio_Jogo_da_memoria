@@ -1,6 +1,6 @@
 ## Jogo da Memória 👩‍💻🧠
 
-<div aling="center">
+<div align="center">
 <img src="assets/ezgif.com-gif-maker.gif"> </div>
 
 ## Descrição
@@ -10,7 +10,7 @@ Consiste em um jogo da memória desenvolvido utilizando JavaScript, HTML e CSS.
 
 ### Para executar o projeto 🕹️
 
-
+<https://nadiamizael.github.io/Desafio_Jogo_da_memoria/>
 
 
 
